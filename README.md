@@ -1,2 +1,2 @@
 # precourse-study-guide01
-A study guide for precourse material
+A study guide for pre-course material
